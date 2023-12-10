@@ -44,7 +44,7 @@ function fazerPergunta(jogador, rodada, pergunta) {
 function jogarShowDoMilhao() {
   const jogador = readlineSync.question('Informe o seu nome: ');
 
-  const numRodadas = 5; // Número mínimo de rodadas
+  const numRodadas = 5; 
   let pontuacao = 0;
 
   for (let rodada = 0; rodada < numRodadas; rodada++) {
