@@ -1,0 +1,12 @@
+{
+  "name": "show-do-milhao",
+  "version": "1.0.0",
+  "description": "Jogo Show do Milhão em Node.js",
+  "main": "show_do_mihao.js",
+  "scripts": {
+    "start": "node show_do_mihao.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
